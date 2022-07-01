@@ -4,7 +4,7 @@
 ### fake server.
 
 ```bash
-    cd fake-api
+    cd fakeapi
 ```
 
 ```bash
